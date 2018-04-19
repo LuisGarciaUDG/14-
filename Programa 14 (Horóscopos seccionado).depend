@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1424568409 source:c:\users\luis\dropbox\comparti2\inco\programación\programa 14 (horóscopos seccionado)\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+
